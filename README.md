@@ -17,7 +17,7 @@ This is a secure, cloud-hosted personal portfolio I built using HTML, CSS, and J
 
 ## 🎥 Deployment Video
 I’ve included a screen recording of the full deployment and live website access.  
-👉 **[Click to Watch the Video](./screen-record.mp4)**
+👉 **[Click to Watch the Video]**https://drive.google.com/file/d/15Qf9qLZRGGsnDbk3w6ZM-suexQpPPqDp/view?usp=sharing
 
 *(Note: The EC2 instance is no longer live due to billing. Please refer to the video for the working demo.)*
 
